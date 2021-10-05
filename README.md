@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## What are the purpose?
+## What are the purposes?
 
 - Best Online Platform for Learning Modern Agriculture
 - You Can Learn From Anyhere
