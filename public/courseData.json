@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Agrometeorology and Environment",
+    "rating": 4.3,
+    "student": 4100,
+    "level": "Beginner",
+    "time": 7.5,
+    "img": "https://www.researchgate.net/profile/Branislava-Lalic/publication/338779501/figure/fig127/AS:857326550544386@1581413986111/Agrometeorological-weather-stations-with-variety-of-sensors-in-an-alfalfa-field-for.png"
+  },
+  {
+    "name": "Fundamentals of Agronomy",
+    "rating": 4.2,
+    "student": 3500,
+    "level": "Intermidiate",
+    "time": 8,
+    "img": "https://www.chsinc.com/-/media/chs%20inc/images/our%20businesses/agriculture/agronomy/21249_1000x530.ashx"
+  },
+  {
+    "name": "Introduction to Entomology",
+    "rating": 4.3,
+    "student": 5000,
+    "level": "Hard",
+    "time": 9,
+    "img": "https://www.worldatlas.com/r/w1200/upload/82/81/d9/shutterstock-1459067657.jpg"
+  },
+  {
+    "name": "Introduction to Cattle",
+    "rating": 4.7,
+    "student": 3200,
+    "level": "Beginner",
+    "time": 6,
+    "img": "https://cdn.britannica.com/55/174255-050-526314B6/brown-Guernsey-cow.jpg"
+  },
+  {
+    "name": "Agricultural Botany",
+    "rating": 4.9,
+    "student": 4300,
+    "level": "Beginner",
+    "time": 3,
+    "img": "https://images.theconversation.com/files/130031/original/image-20160711-9271-wef2ee.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip"
+  },
+  {
+    "name": "Seed Technology",
+    "rating": 4.8,
+    "student": 4420,
+    "level": "Hard",
+    "time": 4.5,
+    "img": "https://www.aldergrovestar.com/wp-content/uploads/2020/11/23211436_web1_201103-ALT-seed-production-seed_1.jpg"
+  },
+  {
+    "name": "Agricultural Economics",
+    "rating": 4.1,
+    "student": 4590,
+    "level": "Beginner",
+    "time": 7,
+    "img": "https://ied.eu/wp-content/uploads/2018/05/agriculture-economy.png"
+  },
+  {
+    "name": "Introduction to Horticulture",
+    "rating": 4.3,
+    "student": 5000,
+    "level": "Intermidiate",
+    "time": 8,
+    "img": "https://global-uploads.webflow.com/5f0edec7915325d2872c8b9e/607e408bae18dbd7a03adf8a_potted-plants-growing-greenhouse_23-2147918581.jpg"
+  },
+  {
+    "name": "Plant Pathology",
+    "rating": 4.7,
+    "student": 4830,
+    "level": "Hard",
+    "time": 5,
+    "img": "https://www.dtnpf.com/mydtn-public-core-portlet/servlet/GetStoredImage?category=CMS&symbolicName=originalX4224YsiteXDTNYcatalogXcatalog"
+  }
+]

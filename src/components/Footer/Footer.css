@@ -1,0 +1,8 @@
+.footer-area{
+    background-color: #094067;
+}
+.social-icons p i{
+    margin-right: 25px;
+    font-size: 20px;
+    cursor: pointer;
+}

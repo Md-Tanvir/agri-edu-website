@@ -1,0 +1,21 @@
+.card-title{
+    font-weight: 700;
+    color: #094067;
+}
+.card-img-top{
+    height: 250px;
+    object-fit: fill;
+}
+.get-btn{
+    background-color: #3da9fc;
+    color: white;
+}
+.fa-star{
+    color: gold;
+}
+.card p{
+    font-weight: 600;
+}
+.card{
+    background-color: #f9f9f9;
+}
